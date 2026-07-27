@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 1,
+  "revision": 2,
   "profiles": [
     {
       "version": "3.06.01",
@@ -15,6 +15,7 @@
         "FREE_ACTION_INDEX_HOOK_OFFSET": "0x1b6d84c",
         "HISTORY_RESPONSE_HOOK_OFFSET": "0x28c0874",
         "COURSE_REP_HOOK_OFFSET": "0x1e47d7c",
+        "COURSE_VOLUME_REP_HOOK_OFFSET": "0x1ce6ccc",
         "HEARTBEAT_HOOK_OFFSET_1": "0x1b44704",
         "HEARTBEAT_HOOK_OFFSET_2": "0x2aeb724",
         "ROUTE_SET_HOOK_OFFSET": "0x1baabcc",
@@ -149,6 +150,7 @@
         "FREE_ACTION_INDEX_HOOK_OFFSET": "0x17e3ae4",
         "HISTORY_RESPONSE_HOOK_OFFSET": "0x3621f08",
         "COURSE_REP_HOOK_OFFSET": "0x31ef000",
+        "COURSE_VOLUME_REP_HOOK_OFFSET": "0x190f998",
         "HEARTBEAT_HOOK_OFFSET_1": "0x17c1664",
         "HEARTBEAT_HOOK_OFFSET_2": "0x3207480",
         "ROUTE_SET_HOOK_OFFSET": "0x1819760",
@@ -283,6 +285,7 @@
         "FREE_ACTION_INDEX_HOOK_OFFSET": "0x18187b4",
         "HISTORY_RESPONSE_HOOK_OFFSET": "0x36a69e4",
         "COURSE_REP_HOOK_OFFSET": "0x279eedc",
+        "COURSE_VOLUME_REP_HOOK_OFFSET": "0x19457a0",
         "HEARTBEAT_HOOK_OFFSET_1": "0x17f66ec",
         "HEARTBEAT_HOOK_OFFSET_2": "0x27af840",
         "ROUTE_SET_HOOK_OFFSET": "0x1850388",
