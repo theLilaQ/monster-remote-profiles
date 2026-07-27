@@ -95,7 +95,7 @@ matrix.
       outside every repository.
 - [ ] Verify the generated signature against the pinned public key.
 - [ ] Confirm Android asset, iOS resource and published JSON are byte-identical.
-- [ ] Publish JSON and `.sig` to `LilaQ/monster-remote-profiles`.
+- [ ] Publish JSON and `.sig` to `theLilaQ/monster-remote-profiles`.
 - [ ] Verify the raw GitHub URLs return HTTP 200 and the unchanged bytes.
 - [ ] Verify iOS fetches the signed online catalog and Helper reports
       `profileSource=signed_remote`.
